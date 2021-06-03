@@ -1,0 +1,21 @@
+PODS:
+  - SqliteComponent (0.1.4)
+  - Viper (0.0.1)
+
+DEPENDENCIES:
+  - SqliteComponent (from `./SqliteComponent`)
+  - Viper (from `./Viper`)
+
+EXTERNAL SOURCES:
+  SqliteComponent:
+    :path: "./SqliteComponent"
+  Viper:
+    :path: "./Viper"
+
+SPEC CHECKSUMS:
+  SqliteComponent: 65b43f32d12614ffda0ae19a0fae2fa53a58cf58
+  Viper: b8e30799500d5d3499d4435480591f569cb0bc12
+
+PODFILE CHECKSUM: 0e0e9bc4c59be3eafb4709211369516f3b6f42fb
+
+COCOAPODS: 1.10.1
